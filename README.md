@@ -6,7 +6,7 @@
 
 4. pkg install python-pip
 
-5. git clone https://github.com/CPMEwan/cpmewan.git
+5. git clone https://github.com/popoys2/POYCPM.git
 
 6. cd cpmewan
 
